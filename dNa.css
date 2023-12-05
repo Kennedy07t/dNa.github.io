@@ -1,0 +1,54 @@
+img.align-left {
+float: left;
+margin-right: 10px;}
+img.align-right {
+float: right;
+margin-left: 10px;}
+img.medium {
+width: 250px;
+height: 250px;}
+    
+body {
+background-image: url("photo.jpg");
+background-repeat: no-repeat;
+background-size: cover;  
+} 
+
+li{
+margin-top: 23px;
+font-size: 13.7px;           
+display:inline-block;
+padding-left:67px;
+padding-top: 28px;
+margin-left:auto;
+}
+.logo{
+    color:peachpuff;
+    font-size: 23.7px;
+    font-family:fantasy,Courier, monospace;
+    padding-left: 23.70px;
+    float: left;
+    padding-top: 23.7px;
+
+}
+
+a:link {
+color:snow;
+text-decoration: none;
+padding-top: 1px;
+    
+}
+a:visited {
+color:white;
+
+ 
+}
+a:hover {
+text-decoration: underline;
+color: white;
+background-color:deeppink;
+}
+a:active {
+color: aqua;
+background-color: navy;
+}
